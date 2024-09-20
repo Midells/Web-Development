@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Learning HTML</title>
+</head>
+<body>
+    
+  <div>
+    <p>hello <strong>WORLD</strong></p>
+    <p>my <small>first</small> web <em>page</em></p>
+  </div>
+
+  <div>
+    <h1>heading 1</h1>
+    <h2>heading 2</h2>
+    <h3>heading 3</h3>
+  </div>
+
+  <div>
+    <ul>
+        <li>bran</li>
+        <li>hat</li>
+    </ul>
+  
+
+    <ol>
+        <li>bran</li>
+        <li>hat</li>
+    </ol>
+  </div>
+    
+    <span>I am a <br>span tag</span>
+
+
+
+
+</body>
+</html>
