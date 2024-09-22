@@ -119,3 +119,55 @@
 
 </body>
 </html>
+
+
+Css Basics
+The styling for the following pages
+h1{
+    color: orange;
+    background-color: slategray;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Arial;
+    text-align: center;
+
+}
+p{
+    color: steelblue; 
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 3px;
+    column-count: 2;
+    column-gap: 60px;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Learning Css</title>
+</head>
+<body>
+
+    <h1>CSS Basics</h1>
+
+    <p>resd vhfukfuy uyfckj hddxe hghso  hjkdrsr fuitrsrtuy jhgftysrtdfyu jh se xarujgyc jgidt hvg676 jttfo hgawa5 hvuktrd gcyigv gckhv 
+        hczfcv ucyuc vucyikh vkyc tsay vluh ces6 guohk dxc hukugcyxc cyicg gcgykg kg ctyicf gcyckty ycyoict gukg gyixtc csturc rugi cd 
+        vkc  gouh vcyuv vu cuvgu tdd ctydky kgc cyktyv kyxtc cykcg yzer aeiuyf lkts livuj kugyfxdez xyty nbvcx dfg  nbvc ey gf sdfg 
+        mnbv cvb ertyu jhgf sdg hgfd asdfg
+    </p>
+
+    <div>
+        <h2>Disciples of Christ</h2>
+        <p>lorem poinnbvcf fghj mnbvc oiuyt asdfg nbvc tyui mnbv xcvb kjhgf tyui klkjh mnbvc zxcvb asdfg qwer tyui ghj jhgf mnbv fgh iuyt 
+            mnbv xcvb sdfgh uytr
+        </p>
+        <ul>
+            <li>peter</li>
+            <li>john the beloved</li>
+            <li>james</li>
+        </ul>
+    </div>
+
+</body>
+</html>
