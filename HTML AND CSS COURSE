@@ -48,7 +48,7 @@
 
 <h1>HTML Forms</h1>
 
-    <!--tells a browser what to do whe a form is submitted-->
+    <!--tells a browser what to do when a form is submitted-->
     <!--has to do with php and server side data-->
     <form action=""></form>
  
@@ -121,26 +121,9 @@
 </html>
 
 
-Css Basics
-The styling for the following pages
-h1{
-    color: orange;
-    background-color: slategray;
-    font-size: 20px;
-    text-decoration: underline;
-    font-family: Arial;
-    text-align: center;
 
-}
-p{
-    color: steelblue; 
-    text-align: center;
-    line-height: 30px;
-    letter-spacing: 3px;
-    column-count: 2;
-    column-gap: 60px;
-}
 
+<!another page-->
 <!DOCTYPE html>
 <html>
 <head>
@@ -169,5 +152,76 @@ p{
         </ul>
     </div>
 
+
+    <h2>Inline elements</h2>
+
+    <span>span tag</span>
+    <em>em tag</em>
+    <a href="">anchor tag</a>
+    <span>span tag</span>
+
+    <h2>Block-level elements</h2>
+
+    <div>div tag</div>
+    <div>another div tag</div>
+    <h3>h3 tag</h3>
+    <p>paragraph tag</p>
+    <ul>
+        <li>li tag</li>
+        <li>another li tag</li>
+    </ul>
+
 </body>
 </html>
+
+
+
+
+<!--The Css styling of the webpages>
+h1{
+    color: orange;
+    background-color: slategray;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Arial;
+    text-align: center;
+
+}
+p{
+    color: steelblue; 
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 3px;
+    column-count: 2;
+    column-gap: 60px;
+}
+ul{
+    /*border-width: 4px;
+    border-style: solid;
+    border-color: crimson;*/
+    /*border: 4px solid crimson;*/
+    border-bottom: 4px solid crimson;
+    border-left: 8px dashed hwb(118 7% 9%);
+}
+li{
+    list-style-type: square;
+    text-shadow: 2px 2px #E9E9E9;
+}
+
+span{
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+}
+div{
+    /*display: inline;*/
+border: 2px solid crimson;
+margin: 20px;
+padding: 20px;
+}
+
+
+
+
+
+
